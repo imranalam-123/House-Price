@@ -1,0 +1,11 @@
+area,bedrooms,bathrooms,stories,parking,location,year_built
+1200,2,1,1,1,Urban,2005
+1800,3,2,2,1,Suburban,2015
+2200,4,2,2,2,Suburban,2020
+1500,3,2,1,1,Urban,2010
+2500,4,3,2,2,Suburban,2018
+1400,2,1,1,0,Urban,2008
+2000,3,2,2,1,Suburban,2016
+1700,3,2,1,1,Rural,2012
+2300,4,2,2,2,Urban,2019
+1600,3,2,2,1,Suburban,2014
